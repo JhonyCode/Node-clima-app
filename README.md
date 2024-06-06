@@ -17,6 +17,15 @@ Esta es una aplicación de consola desarrollada en Node.js que permite buscar in
 - 📋 **Listar el historial de búsquedas**
 - 💾 **Guardar y cargar el historial desde un archivo JSON para persistencia**
 
+### 📦 Dependencias
+
+<a name="dependencias"></a>
+
+- [axios](https://www.npmjs.com/package/axios): Para realizar solicitudes HTTP a las APIs de meteorología.
+- [yargs](https://www.npmjs.com/package/yargs): Para manejar los argumentos de la línea de comandos.
+- [colors](https://www.npmjs.com/package/colors): Para agregar colores a la salida en la consola.
+- [dotenv](https://www.npmjs.com/package/dotenv): Para cargar las variables de entorno desde un archivo `.env`.
+
 ### 🛠️ Instalación
 
 <a name="instalación"></a>
@@ -55,3 +64,13 @@ Esta es una aplicación de consola desarrollada en Node.js que permite buscar in
 Para iniciar la aplicación, ejecuta el siguiente comando:
 ```bash
 node app.js
+```
+
+### 📷 Capturas de pantalla de la aplicación 
+![Captura de pantalla de la aplicación](assets/image1.png)
+![Captura de pantalla de la aplicación](assets/image2.png)
+![Captura de pantalla de la aplicación](assets/image3.png)
+![Captura de pantalla de la aplicación](assets/image4.png)
+![Captura de pantalla de la aplicación](assets/image5.png)
+
+
